@@ -34,7 +34,7 @@ int rows = sc.nextInt();
 
 for (int i = 1; i<=rows; i++) {
 
-for (int j = i; j <= rows; j++) { //Rows Loop
+for (int j = i; j < rows; j++) { //Rows Loop
 
 System.out.print(" "); // Blank Space
 
